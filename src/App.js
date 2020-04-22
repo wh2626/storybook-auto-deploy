@@ -9,6 +9,7 @@ export default class App extends Component {
     return (
       <Com>
         <Button>app</Button>
+        <Button>Button</Button>
       </Com>
     );
   }
