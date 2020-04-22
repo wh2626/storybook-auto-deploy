@@ -9,7 +9,7 @@ export default class App extends Component {
     return (
       <Wrap>
         <Inner>
-          <Text>テキスト</Text>
+          <Text>テキストテキスト</Text>
           <Button>app</Button>
         </Inner>
       </Wrap>
