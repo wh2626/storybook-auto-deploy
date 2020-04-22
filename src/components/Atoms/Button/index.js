@@ -1,8 +1,8 @@
 import React from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export default function Button(props) {
-  return <Component>{props.children}</Component>;
+  return <Component color={props.color}>{props.children}</Component>;
 }
 
 const Component = styled.button`
@@ -14,4 +14,9 @@ const Component = styled.button`
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  ${(props) =>
+    props.color &&
+    css`
+      color: red;
+    `}
 `;
