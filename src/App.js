@@ -8,8 +8,12 @@ export default class App extends Component {
   render() {
     return (
       <Com>
-        <Button>app</Button>
-        <Button>Button</Button>
+        <div>
+          <Button>app</Button>
+        </div>
+        <div>
+          <Button>Button</Button>
+        </div>
       </Com>
     );
   }
