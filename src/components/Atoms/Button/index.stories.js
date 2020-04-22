@@ -5,3 +5,4 @@ import Button from ".";
 const stories = storiesOf("atoms/Button", module);
 
 stories.add("default", () => <Button>Button</Button>);
+stories.add("color", () => <Button color>Button</Button>);
