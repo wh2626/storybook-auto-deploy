@@ -8,7 +8,7 @@ export default function Button(props) {
 const Component = styled.button`
   border-radius: 3px;
   border: 1px solid #ccc;
-  height: 28px;
+  height: 50px;
   padding: 0 16px;
   display: inline-flex;
   align-items: center;

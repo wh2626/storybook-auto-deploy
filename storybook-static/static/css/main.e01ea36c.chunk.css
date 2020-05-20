@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue",
+    HelveticaNeue, "\6E38\30B4\30B7\30C3\30AF\4F53", YuGothic, "\6E38\30B4\30B7\30C3\30AF   Medium",
+    "Yu Gothic Medium", "\6E38\30B4\30B7\30C3\30AF", "Yu Gothic", "Sogoe UI", Verdana,
+    "\30E1\30A4\30EA\30AA", Meiryo, sans-serif;
+  color: #333;
+}
+b,
+strong {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue",
+    HelveticaNeue, "\6E38\30B4\30B7\30C3\30AF\4F53", YuGothic, "\6E38\30B4\30B7\30C3\30AF", "Yu Gothic",
+    "Sogoe UI", Verdana, "\30E1\30A4\30EA\30AA", Meiryo, sans-serif;
+}
+button {
+  border: none;
+}
+
+
+/*# sourceMappingURL=main.e01ea36c.chunk.css.map*/
